@@ -1,0 +1,27 @@
+body {
+	font-family: Arial
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.logo {
+	border-radius: 35%
+}
+
+header, footer {
+	text-align: center;
+}
+
+nav ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+nav li {
+	display: inline;
+	font: 10%;
+	padding: 5em;
+}
